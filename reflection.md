@@ -5,8 +5,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+- Ans: The game is giving the opposite hint. When a number small than the secret is guessed, it tells the player to go lower instead of higher, which misleads the player.
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  Ans: 1. The hint logic is reversed (tells the player the wrong direction)
+  2. The displayed number range does not match the selected difficult level
 
 ---
 
