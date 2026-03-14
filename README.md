@@ -35,4 +35,4 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+- [x] ![Fixed winning game](C:\Users\conte\OneDrive\Desktop\Codepathfiles\AI110_Foundations_of_ai_Engineering\win.png)
