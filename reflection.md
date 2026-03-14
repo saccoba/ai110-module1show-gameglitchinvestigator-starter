@@ -16,17 +16,24 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
+- Ans: I used copilot and Chatgpt
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+- Ans: On line 34, we changed st.session_state.attempts = 1 to st.session_state.attempts = 0
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+- Copilot was suggesting a change of every code inside app.py to some random codes, i tried it at first, but everything was scratching.
 
 ---
 
 ## 3. Debugging and testing your fixes
 
 - How did you decide whether a bug was really fixed?
-- Describe at least one test you ran (manual or using pytest)  
-  and what it showed you about your code.
+- Ans: I have to test and see if i will get the desired answer.
+- Describe at least one test you ran (manual or using pytest)
+- Ans: After fixing some bugs, i tried to run the test_logic.py to make sure everything was ok.
+- and what it showed you about your code.
+- Ans: the code was unable to find the located path, so was getting error.
 - Did AI help you design or understand any tests? How?
+- Ans: AI help explained to me how to locate the file in the folder.
 
 ---
 
