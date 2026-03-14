@@ -38,4 +38,4 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [] [stretch]
+- [x] [pytest_result](pytest_result.png)
