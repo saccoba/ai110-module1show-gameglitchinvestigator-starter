@@ -35,4 +35,4 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [x] ![Fixed winning game](C:\Users\conte\OneDrive\Desktop\Codepathfiles\AI110_Foundations_of_ai_Engineering\win.png)
+- [x] ![Fixed winning game](win.png)
