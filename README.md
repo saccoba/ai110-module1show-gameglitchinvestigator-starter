@@ -25,9 +25,12 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [x] Describe the game's purpose.
+     The purpose of the game is to let the player guess a hidden number within a selected range. The game gives feedback after each guess.
+- [x] Detail which bugs you found.
+     I found out that the game had issues with its logic and behavior. The "higher" and "lower" were not working perfectly, which could confuse the player. There were also problem with how parts of the logic were organized, making the code harder to test and maintain. 
+- [x] Explain what fixes you applied.
+     I fixed the incorrect higher/lower hintlogic so the game now gives the right feedback to the player.I also moved the main game logic into 'logic_utils.py'to make the program cleaner and easier to test. After that, I ran the test with 'pytest' and confirmed that the game worked correctly.
 
 ## 📸 Demo
 
